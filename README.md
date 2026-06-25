@@ -1,8 +1,11 @@
 ### Hi, how are you? What did catch your eye? 👋
 
-# I'm [Nicolás Duque Gardeazabal](https://www.linkedin.com/in/nicolas-duque-gardeazabal-59a93683/)
+# I'm [Nicolás Duque Gardeazabal](https://nduqueg.github.io/duque-gardeazabal/)
 
-🇨🇴🏜️⛈️🌊🇨🇭 I'm a climatologist & water resources engineer, with specific experience in modelling and analyzing hydrometeorological hazards, impacts on ⚡energy production & water resources systems through cutting edge techniques (modelling & AI). [ResearchGate](https://www.researchgate.net/profile/Nicolas-Duque-Gardeazabal)
+
+🇨🇴🏜️⛈️🌊🇨🇭 I'm a climatologist & water resources engineer, with specific experience in modelling and analyzing hydrometeorological hazards, impacts on ⚡energy production & water resources systems through cutting edge techniques (modelling & AI). 
+[ResearchGate](https://www.researchgate.net/profile/Nicolas-Duque-Gardeazabal)
+[Linkedin](https://www.linkedin.com/in/nicolas-duque-gardeazabal-59a93683/)
 
 - We have investigated hydrometeorological phenomenons such as floods and droughts via mathematical models (specially using remote sensed and reanalysis data). Throughout my carreer, I have also developed several soft skills such as proactivity, communication, adaptation, work in groups, innovation and leadership. Furthermore, We've participated in water quality studies and used coding (scripts) to prepare and analyse the data produced by models with Machine Learning, geostatistics and multivariate statistical techniques.
 
