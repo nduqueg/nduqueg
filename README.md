@@ -1,6 +1,6 @@
 ### Hi, how are you? What did catch your eye? 👋
 
-# I'm [Nicolás Duque Gardeazabal](https://nduqueg.github.io/duque-gardeazabal/)
+# I'm [Nicolás Duque Gardeazabal](https://nduqueg.github.io/)
 
 
 🇨🇴🏜️⛈️🌊🇨🇭 I'm a climatologist & water resources engineer, with specific experience in modelling and analyzing hydrometeorological hazards, impacts on ⚡energy production & water resources systems through cutting edge techniques (modelling & AI). 
